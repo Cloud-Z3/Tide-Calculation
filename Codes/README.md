@@ -71,7 +71,5 @@ PowerSys.layout2()
 
 
 
-<p align="right">张杰瑞  2019040401006 </p>
-
 <p align="right">2021.11.30 </p>
 
